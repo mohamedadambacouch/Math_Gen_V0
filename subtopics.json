@@ -1,0 +1,223 @@
+﻿{
+  "year_groups": {
+    "3": {
+      "topics": {
+        "Place value (numbers to 1000, negative numbers in context)": {
+          "subtopics": [
+            "Reading and writing numbers to 1000",
+            "Comparing and ordering numbers",
+            "10 more / 10 less, 100 more / 100 less",
+            "Negative numbers in temperature contexts",
+            "Ordering negative and positive numbers on a number line"
+          ]
+        },
+        "Addition and subtraction (column method, mental calculations)": {
+          "subtopics": [
+            "Adding 3-digit numbers without regrouping",
+            "Adding with regrouping (carrying)",
+            "Subtracting 3-digit numbers with borrowing",
+            "Mental addition and subtraction strategies"
+          ]
+        },
+        "Multiplication and division (3, 4, 8 times tables, remainders)": {
+          "subtopics": [
+            "3 times table facts",
+            "4 times table facts",
+            "8 times table facts",
+            "Dividing with remainders"
+          ]
+        },
+        "Fractions (tenths, unit fractions, comparing fractions)": {
+          "subtopics": [
+            "Understanding tenths as fractions and decimals",
+            "Unit fractions (1/2, 1/3, 1/4, etc.)",
+            "Comparing fractions with same denominator",
+            "Finding fractions of a set"
+          ]
+        },
+        "Measurement (perimeter, length, mass, capacity, time intervals)": {
+          "subtopics": [
+            "Measuring length (cm, m)",
+            "Measuring mass (g, kg)",
+            "Measuring capacity (ml, l)",
+            "Finding perimeter of simple shapes",
+            "Calculating time intervals (minutes, hours)",
+            "Finding perimeter of a rectangle on grid paper"
+          ]
+        },
+        "Geometry (angles, perpendicular/parallel lines, 2D/3D shapes)": {
+          "subtopics": [
+            "Identifying right angles, acute, obtuse",
+            "Recognising perpendicular and parallel lines",
+            "Properties of 2D shapes (sides, vertices)",
+            "Properties of 3D shapes (faces, edges, vertices)",
+            "Identifying and measuring angles on a diagram",
+            "Drawing and labelling 2D shapes on a square grid",
+            "Drawing perpendicular and parallel lines on grid paper",
+            "Recognising 3D shapes from diagrams"
+          ]
+        },
+        "Statistics (bar charts, pictograms, tables)": {
+          "subtopics": [
+            "Reading and interpreting pictograms",
+            "Drawing bar charts from data",
+            "Using tables to record and sort data",
+            "Drawing a bar chart from a frequency table",
+            "Reading and completing a pictogram with a key",
+            "Answering questions from a data table"
+          ]
+        }
+      }
+    },
+    "4": {
+      "topics": {
+        "Place value (numbers to 10,000, rounding)": {
+          "subtopics": [
+            "Thousands, hundreds, tens, ones",
+            "Comparing numbers up to 10,000",
+            "Rounding to the nearest 10, 100, 1000"
+          ]
+        },
+        "Addition and subtraction (up to 4-digit numbers)": {
+          "subtopics": [
+            "Adding 4-digit numbers with carrying",
+            "Subtracting 4-digit numbers with borrowing",
+            "Inverse operations and checking answers"
+          ]
+        },
+        "Multiplication and division (6, 7, 9, 11, 12 tables, two-digit by one-digit)": {
+          "subtopics": [
+            "6, 7, 9, 11, 12 times tables",
+            "Multiplying two-digit by one-digit (e.g., 23 x 4)",
+            "Dividing two-digit by one-digit with remainders"
+          ]
+        },
+        "Fractions (equivalent fractions, adding/subtracting same denominator)": {
+          "subtopics": [
+            "Finding equivalent fractions",
+            "Simplifying fractions",
+            "Adding and subtracting fractions with same denominator",
+            "Comparing fractions with different denominators"
+          ]
+        },
+        "Decimals (tenths and hundredths)": {
+          "subtopics": [
+            "Understanding tenths as decimals",
+            "Understanding hundredths as decimals",
+            "Converting between fractions and decimals (tenths/hundredths)"
+          ]
+        },
+        "Measurement (area, perimeter, time to the minute)": {
+          "subtopics": [
+            "Finding area by counting squares",
+            "Finding area of rectangles (length x width)",
+            "Perimeter of rectilinear shapes",
+            "Telling time to the nearest minute",
+            "Solving time word problems",
+            "Calculating area of a rectangle from a diagram",
+            "Finding perimeter of a compound shape on a grid"
+          ]
+        },
+        "Geometry (coordinates, quadrilaterals, triangles, angles)": {
+          "subtopics": [
+            "Plotting points on a coordinate grid (first quadrant)",
+            "Identifying different quadrilaterals (square, rectangle, rhombus, etc.)",
+            "Identifying types of triangles (equilateral, isosceles, scalene, right-angled)",
+            "Measuring and drawing angles",
+            "Plotting and reading coordinates in the first quadrant",
+            "Drawing and measuring angles with a protractor",
+            "Drawing triangles on a coordinate grid and finding missing vertices",
+            "Identifying quadrilaterals on a coordinate grid"
+          ]
+        },
+        "Statistics (line graphs, time graphs)": {
+          "subtopics": [
+            "Reading and interpreting line graphs",
+            "Plotting data on a line graph over time",
+            "Comparing two line graphs",
+            "Drawing a line graph from a table of values",
+            "Reading and answering questions from a time graph"
+          ]
+        }
+      }
+    },
+    "5": {
+      "topics": {
+        "Place value (up to 1,000,000, negative numbers)": {
+          "subtopics": [
+            "Reading and writing numbers to 1,000,000",
+            "Comparing and ordering large numbers",
+            "Rounding to any place value (10, 100, 1000, 10,000)",
+            "Negative numbers in real-life contexts (temperature, bank balance)",
+            "Locating negative numbers on a number line"
+          ]
+        },
+        "Four operations (multi-digit multiplication, division with remainders)": {
+          "subtopics": [
+            "Multiplying 3-digit by 2-digit numbers",
+            "Long division with remainders",
+            "Order of operations (BIDMAS/BODMAS)",
+            "Solving multi-step word problems"
+          ]
+        },
+        "Fractions (comparing, adding/subtracting, multiplying fractions)": {
+          "subtopics": [
+            "Comparing fractions with different denominators",
+            "Adding and subtracting fractions with different denominators",
+            "Multiplying fractions by whole numbers",
+            "Finding fractions of amounts (word problems)"
+          ]
+        },
+        "Decimals and percentages (equivalence, rounding, problems)": {
+          "subtopics": [
+            "Converting between fractions, decimals, percentages",
+            "Rounding decimals to one or two decimal places",
+            "Percentage of an amount (e.g., 15% of 80)",
+            "Percentage increase and decrease"
+          ]
+        },
+        "Measurement (converting units, volume, area of rectangles)": {
+          "subtopics": [
+            "Converting between metric units (km, m, cm, mm; kg, g; l, ml)",
+            "Area of compound rectilinear shapes",
+            "Volume of cubes and cuboids (cm3, m3)",
+            "Finding volume of a cuboid from a 3D diagram",
+            "Calculating area of a compound shape on a grid"
+          ]
+        },
+        "Geometry (angles, regular polygons, reflection, translation)": {
+          "subtopics": [
+            "Angles on a straight line and around a point",
+            "Angles in triangles and quadrilaterals",
+            "Properties of regular polygons (equal sides/angles)",
+            "Reflecting shapes across a mirror line",
+            "Translating shapes on a coordinate grid",
+            "Finding unknown angles in a triangle diagram",
+            "Reflecting a 2D shape across a mirror line on a grid",
+            "Translating a shape on a coordinate grid",
+            "Angles in regular polygons shown in a diagram"
+          ]
+        },
+        "Statistics (tables, line graphs, timetables)": {
+          "subtopics": [
+            "Reading and interpreting timetables (bus, train, etc.)",
+            "Drawing and interpreting line graphs",
+            "Using two-way tables to organise data",
+            "Plotting two data sets on a line graph",
+            "Drawing a scatter graph to show a relationship",
+            "Completing and reading a two-way table"
+          ]
+        },
+        "Ratio and proportion (simple scaling)": {
+          "subtopics": [
+            "Understanding ratio notation (3:2)",
+            "Simplifying ratios",
+            "Sharing quantities in a given ratio",
+            "Solving simple proportion problems (recipes, maps)"
+          ]
+        }
+      }
+    }
+  }
+}
+

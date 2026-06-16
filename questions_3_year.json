@@ -1,0 +1,1038 @@
+{
+  "year": "3",
+  "age": "7-8",
+  "topics": [
+    {
+      "topic": "Place value (numbers to 1000, negative numbers in context)",
+      "examples": {
+        "Easy": [
+          {
+            "question": "What is the value of the digit 5 in the number 358?",
+            "options": [
+              "5 tens (50)",
+              "5 hundreds (500)",
+              "5 ones (5)",
+              "5 thousand (5000)"
+            ]
+          },
+          {
+            "question": "Write the number: 6 hundreds, 2 tens, 7 ones.",
+            "options": [
+              "627",
+              "672",
+              "726",
+              "762"
+            ]
+          },
+          {
+            "question": "Which number is the largest: 495, 459, 549?",
+            "options": [
+              "495",
+              "459",
+              "549",
+              "All equal"
+            ]
+          },
+          {
+            "question": "What is 10 less than 204?",
+            "options": [
+              "194",
+              "195",
+              "196",
+              "214"
+            ]
+          },
+          {
+            "question": "The temperature is 4°C. It drops by 6 degrees. What is the new temperature?",
+            "options": [
+              "-2°C",
+              "2°C",
+              "-1°C",
+              "10°C"
+            ]
+          }
+        ],
+        "Medium": [
+          {
+            "question": "What is the missing number? 512, 502, __ , 482, 472",
+            "options": [
+              "492",
+              "490",
+              "500",
+              "495"
+            ]
+          },
+          {
+            "question": "Round 276 to the nearest ten.",
+            "options": [
+              "270",
+              "280",
+              "300",
+              "276"
+            ]
+          },
+          {
+            "question": "How many tens are in 840?",
+            "options": [
+              "8",
+              "84",
+              "840",
+              "4"
+            ]
+          },
+          {
+            "question": "Arrange in ascending order: 607, 670, 706, 760",
+            "options": [
+              "607,670,706,760",
+              "670,607,706,760",
+              "706,607,670,760",
+              "760,706,670,607"
+            ]
+          },
+          {
+            "question": "What number is 100 more than 899?",
+            "options": [
+              "909",
+              "999",
+              "1000",
+              "989"
+            ]
+          }
+        ],
+        "Hard": [
+          {
+            "question": "I am a three-digit number. My hundreds digit is 4 more than my tens digit. My tens digit is twice my ones digit. The sum of the digits is 14. What number am I?",
+            "options": [
+              "842",
+              "632",
+              "842",
+              "752"
+            ]
+          },
+          {
+            "question": "What is the difference between the largest and smallest numbers you can make with digits 3, 7, 1?",
+            "options": [
+              "594",
+              "396",
+              "198",
+              "792"
+            ]
+          },
+          {
+            "question": "A submarine is at -45 metres. It rises 20 metres, then dives 15 metres. Where is it now?",
+            "options": [
+              "-40 m",
+              "-50 m",
+              "-30 m",
+              "-60 m"
+            ]
+          },
+          {
+            "question": "Which number is closest to 500? 497, 503, 511, 489",
+            "options": [
+              "497",
+              "503",
+              "511",
+              "489"
+            ]
+          },
+          {
+            "question": "What is 1000 - 275?",
+            "options": [
+              "725",
+              "735",
+              "825",
+              "835"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "topic": "Addition and subtraction (column method, mental calculations)",
+      "examples": {
+        "Easy": [
+          {
+            "question": "What is 234 + 145?",
+            "options": [
+              "369",
+              "379",
+              "389",
+              "399"
+            ]
+          },
+          {
+            "question": "What is 567 - 234?",
+            "options": [
+              "333",
+              "343",
+              "353",
+              "363"
+            ]
+          },
+          {
+            "question": "There are 428 books in the library. 156 more are donated. How many now?",
+            "options": [
+              "574",
+              "584",
+              "594",
+              "604"
+            ]
+          },
+          {
+            "question": "What is 500 - 200?",
+            "options": [
+              "200",
+              "300",
+              "400",
+              "500"
+            ]
+          },
+          {
+            "question": "Add 45 and 67 mentally.",
+            "options": [
+              "102",
+              "112",
+              "122",
+              "132"
+            ]
+          }
+        ],
+        "Medium": [
+          {
+            "question": "What is 573 + 289?",
+            "options": [
+              "852",
+              "862",
+              "872",
+              "882"
+            ]
+          },
+          {
+            "question": "A farmer has 635 eggs. He sells 248. How many left?",
+            "options": [
+              "387",
+              "397",
+              "407",
+              "417"
+            ]
+          },
+          {
+            "question": "Find the missing number: 467 + ___ = 800",
+            "options": [
+              "333",
+              "343",
+              "323",
+              "353"
+            ]
+          },
+          {
+            "question": "What is 804 - 567?",
+            "options": [
+              "237",
+              "247",
+              "257",
+              "267"
+            ]
+          },
+          {
+            "question": "Tom saved £345. He spent £127 on a game and £89 on a book. How much left?",
+            "options": [
+              "129",
+              "139",
+              "149",
+              "159"
+            ]
+          }
+        ],
+        "Hard": [
+          {
+            "question": "What is the sum of the smallest 3-digit number and the largest 2-digit number?",
+            "options": [
+              "199",
+              "200",
+              "201",
+              "202"
+            ]
+          },
+          {
+            "question": "A shop had 1000 biscuits. On Monday 345 were sold, on Tuesday 287. How many left on Wednesday?",
+            "options": [
+              "368",
+              "378",
+              "388",
+              "398"
+            ]
+          },
+          {
+            "question": "Subtract 456 from 1000 mentally. What is the answer?",
+            "options": [
+              "544",
+              "554",
+              "564",
+              "574"
+            ]
+          },
+          {
+            "question": "I think of a number. I add 275 and get 600. What is my number?",
+            "options": [
+              "325",
+              "335",
+              "345",
+              "355"
+            ]
+          },
+          {
+            "question": "What is the difference between 1000 and the number that is 400 more than 250?",
+            "options": [
+              "350",
+              "450",
+              "550",
+              "650"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "topic": "Multiplication and division (3, 4, 8 times tables, remainders)",
+      "examples": {
+        "Easy": [
+          {
+            "question": "What is 3 × 6?",
+            "options": [
+              "15",
+              "16",
+              "17",
+              "18"
+            ]
+          },
+          {
+            "question": "What is 4 × 7?",
+            "options": [
+              "24",
+              "26",
+              "28",
+              "30"
+            ]
+          },
+          {
+            "question": "There are 8 bags with 3 pencils each. How many pencils?",
+            "options": [
+              "21",
+              "22",
+              "23",
+              "24"
+            ]
+          },
+          {
+            "question": "Share 24 apples among 3 children. How many each?",
+            "options": [
+              "6",
+              "7",
+              "8",
+              "9"
+            ]
+          },
+          {
+            "question": "What is 8 × 5?",
+            "options": [
+              "35",
+              "40",
+              "45",
+              "50"
+            ]
+          }
+        ],
+        "Medium": [
+          {
+            "question": "What is 7 × 8?",
+            "options": [
+              "54",
+              "56",
+              "58",
+              "60"
+            ]
+          },
+          {
+            "question": "A pack has 4 cookies. How many cookies in 9 packs?",
+            "options": [
+              "32",
+              "34",
+              "36",
+              "38"
+            ]
+          },
+          {
+            "question": "What is 35 ÷ 4? (with remainder)",
+            "options": [
+              "8 r3",
+              "8 r2",
+              "8 r1",
+              "9 r0"
+            ]
+          },
+          {
+            "question": "There are 50 children. They sit in rows of 8. How many full rows? How many left over?",
+            "options": [
+              "6 rows, 2 left",
+              "6 rows, 4 left",
+              "7 rows, 0 left",
+              "7 rows, 2 left"
+            ]
+          },
+          {
+            "question": "If 3 × ___ = 27, what is the missing number?",
+            "options": [
+              "7",
+              "8",
+              "9",
+              "10"
+            ]
+          }
+        ],
+        "Hard": [
+          {
+            "question": "What is 9 × 8?",
+            "options": [
+              "72",
+              "73",
+              "74",
+              "75"
+            ]
+          },
+          {
+            "question": "A baker bakes 8 trays of muffins. Each tray holds 12 muffins. How many muffins in total?",
+            "options": [
+              "88",
+              "92",
+              "96",
+              "100"
+            ]
+          },
+          {
+            "question": "Divide 67 by 8. What is the remainder?",
+            "options": [
+              "1",
+              "2",
+              "3",
+              "4"
+            ]
+          },
+          {
+            "question": "There are 42 flowers. They are put into vases, each holding 5 flowers. How many vases are needed to hold all flowers?",
+            "options": [
+              "8 vases (2 left)",
+              "9 vases (full)",
+              "10 vases",
+              "7 vases"
+            ]
+          },
+          {
+            "question": "If 4 × 7 = 28, then what is 8 × 7?",
+            "options": [
+              "56",
+              "48",
+              "64",
+              "72"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "topic": "Fractions (tenths, unit fractions, comparing fractions)",
+      "examples": {
+        "Easy": [
+          {
+            "question": "What fraction of the shape is shaded? (Assume 1 out of 10 parts)",
+            "options": [
+              "1/10",
+              "1/5",
+              "1/2",
+              "1/4"
+            ]
+          },
+          {
+            "question": "What is 1/10 of 70?",
+            "options": [
+              "5",
+              "6",
+              "7",
+              "8"
+            ]
+          },
+          {
+            "question": "Which is larger: 1/4 or 1/8?",
+            "options": [
+              "1/4",
+              "1/8",
+              "Equal",
+              "Can't tell"
+            ]
+          },
+          {
+            "question": "How many tenths in a whole?",
+            "options": [
+              "5",
+              "8",
+              "10",
+              "12"
+            ]
+          },
+          {
+            "question": "What is 3/10 as a decimal?",
+            "options": [
+              "0.03",
+              "0.3",
+              "3.0",
+              "0.003"
+            ]
+          }
+        ],
+        "Medium": [
+          {
+            "question": "Order from smallest to largest: 1/2, 1/5, 1/3",
+            "options": [
+              "1/5,1/3,1/2",
+              "1/2,1/3,1/5",
+              "1/3,1/5,1/2",
+              "1/5,1/2,1/3"
+            ]
+          },
+          {
+            "question": "A pizza is cut into 10 slices. You eat 3 slices. What fraction of the pizza is left?",
+            "options": [
+              "3/10",
+              "7/10",
+              "10/10",
+              "5/10"
+            ]
+          },
+          {
+            "question": "What is 2/5 of 20?",
+            "options": [
+              "4",
+              "6",
+              "8",
+              "10"
+            ]
+          },
+          {
+            "question": "Which fraction is equivalent to 1/2?",
+            "options": [
+              "2/4",
+              "3/5",
+              "4/6",
+              "5/10"
+            ]
+          },
+          {
+            "question": "If 1/3 of a number is 12, what is the number?",
+            "options": [
+              "24",
+              "30",
+              "36",
+              "42"
+            ]
+          }
+        ],
+        "Hard": [
+          {
+            "question": "I have 5/8 of a chocolate bar. My friend has 3/4 of a same bar. Who has more?",
+            "options": [
+              "Me",
+              "Friend",
+              "Same",
+              "Depends"
+            ]
+          },
+          {
+            "question": "What is 3/4 + 1/8?",
+            "options": [
+              "7/8",
+              "1/2",
+              "5/8",
+              "3/8"
+            ]
+          },
+          {
+            "question": "A class has 30 children. 2/5 are boys. How many are girls?",
+            "options": [
+              "12",
+              "15",
+              "18",
+              "20"
+            ]
+          },
+          {
+            "question": "Which fraction is greater: 7/10 or 2/3?",
+            "options": [
+              "7/10",
+              "2/3",
+              "Equal",
+              "Can't tell"
+            ]
+          },
+          {
+            "question": "A ribbon is 80 cm long. You cut off 3/8. How long is the remaining piece?",
+            "options": [
+              "30 cm",
+              "40 cm",
+              "50 cm",
+              "60 cm"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "topic": "Measurement (perimeter, length, mass, capacity, time intervals)",
+      "examples": {
+        "Easy": [
+          {
+            "question": "What is the perimeter of a square with side length 5 cm?",
+            "options": [
+              "15 cm",
+              "20 cm",
+              "25 cm",
+              "30 cm"
+            ]
+          },
+          {
+            "question": "How many grams in 2 kg?",
+            "options": [
+              "200 g",
+              "2000 g",
+              "20 g",
+              "2 g"
+            ]
+          },
+          {
+            "question": "A jug holds 1 litre. How many millilitres is that?",
+            "options": [
+              "100 ml",
+              "1000 ml",
+              "10 ml",
+              "10000 ml"
+            ]
+          },
+          {
+            "question": "The time is 3:15. What will the time be in 30 minutes?",
+            "options": [
+              "3:30",
+              "3:45",
+              "4:00",
+              "4:15"
+            ]
+          },
+          {
+            "question": "A pencil is 12 cm long. A pen is 8 cm long. How much longer is the pencil?",
+            "options": [
+              "2 cm",
+              "3 cm",
+              "4 cm",
+              "5 cm"
+            ]
+          }
+        ],
+        "Medium": [
+          {
+            "question": "A rectangle has length 8 cm and width 5 cm. What is its perimeter?",
+            "options": [
+              "26 cm",
+              "24 cm",
+              "28 cm",
+              "30 cm"
+            ]
+          },
+          {
+            "question": "A bottle contains 750 ml of water. You pour out 250 ml. How much is left?",
+            "options": [
+              "400 ml",
+              "450 ml",
+              "500 ml",
+              "550 ml"
+            ]
+          },
+          {
+            "question": "The train leaves at 10:45 and arrives at 12:15. How long is the journey?",
+            "options": [
+              "1 hour",
+              "1 hour 15 min",
+              "1 hour 30 min",
+              "1 hour 45 min"
+            ]
+          },
+          {
+            "question": "A bag of sugar weighs 1.5 kg. How many grams is that?",
+            "options": [
+              "150 g",
+              "1500 g",
+              "15 g",
+              "15000 g"
+            ]
+          },
+          {
+            "question": "A piece of string is 2 m 40 cm. You cut off 1 m 15 cm. How much remains?",
+            "options": [
+              "1 m 25 cm",
+              "1 m 35 cm",
+              "1 m 45 cm",
+              "1 m 55 cm"
+            ]
+          }
+        ],
+        "Hard": [
+          {
+            "question": "The perimeter of a rectangle is 36 cm. The length is 12 cm. What is the width?",
+            "options": [
+              "4 cm",
+              "6 cm",
+              "8 cm",
+              "10 cm"
+            ]
+          },
+          {
+            "question": "A movie starts at 6:50 PM and lasts 2 hours 20 minutes. What time does it end?",
+            "options": [
+              "8:10 PM",
+              "9:10 PM",
+              "9:20 PM",
+              "9:30 PM"
+            ]
+          },
+          {
+            "question": "A tank holds 25 litres of water. A bucket holds 5 litres. How many buckets to fill the tank?",
+            "options": [
+              "4",
+              "5",
+              "6",
+              "7"
+            ]
+          },
+          {
+            "question": "Sam runs 400 m in 80 seconds. What is his average speed in m/s?",
+            "options": [
+              "3 m/s",
+              "4 m/s",
+              "5 m/s",
+              "6 m/s"
+            ]
+          },
+          {
+            "question": "A square has perimeter 28 cm. What is its area?",
+            "options": [
+              "49 cm²",
+              "36 cm²",
+              "25 cm²",
+              "64 cm²"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "topic": "Geometry (angles, perpendicular/parallel lines, 2D/3D shapes)",
+      "examples": {
+        "Easy": [
+          {
+            "question": "What angle is 90 degrees called?",
+            "options": [
+              "Acute",
+              "Right",
+              "Obtuse",
+              "Straight"
+            ]
+          },
+          {
+            "question": "Which shape has exactly 3 sides?",
+            "options": [
+              "Square",
+              "Rectangle",
+              "Triangle",
+              "Pentagon"
+            ]
+          },
+          {
+            "question": "How many vertices does a cube have?",
+            "options": [
+              "6",
+              "8",
+              "12",
+              "4"
+            ]
+          },
+          {
+            "question": "Which lines never meet?",
+            "options": [
+              "Parallel",
+              "Perpendicular",
+              "Intersecting",
+              "Curved"
+            ]
+          },
+          {
+            "question": "What is the name of a 3D shape with 2 circular faces?",
+            "options": [
+              "Cone",
+              "Sphere",
+              "Cylinder",
+              "Pyramid"
+            ]
+          }
+        ],
+        "Medium": [
+          {
+            "question": "Which angle is smaller than 90 degrees?",
+            "options": [
+              "Acute",
+              "Right",
+              "Obtuse",
+              "Reflex"
+            ]
+          },
+          {
+            "question": "How many edges does a square-based pyramid have?",
+            "options": [
+              "5",
+              "6",
+              "7",
+              "8"
+            ]
+          },
+          {
+            "question": "A shape has 4 sides, opposite sides parallel, and all angles 90°. What is it?",
+            "options": [
+              "Square",
+              "Rectangle",
+              "Rhombus",
+              "Trapezium"
+            ]
+          },
+          {
+            "question": "If a line is perpendicular to another, what angle do they form?",
+            "options": [
+              "45°",
+              "90°",
+              "180°",
+              "360°"
+            ]
+          },
+          {
+            "question": "How many faces does a triangular prism have?",
+            "options": [
+              "3",
+              "4",
+              "5",
+              "6"
+            ]
+          },
+          {
+            "question": "How many faces does a cuboid have?",
+            "options": [
+              "4",
+              "7",
+              "5",
+              "8",
+              "6"
+            ]
+          }
+        ],
+        "Hard": [
+          {
+            "question": "A shape has 5 faces, 8 edges, and 5 vertices. What is it?",
+            "options": [
+              "Square pyramid",
+              "Triangular prism",
+              "Cube",
+              "Cuboid"
+            ]
+          },
+          {
+            "question": "A rectangle is 6 cm long and 3 cm wide. How many 1 cm squares fit inside?",
+            "options": [
+              "12",
+              "15",
+              "18",
+              "20"
+            ]
+          },
+          {
+            "question": "Two lines are parallel. A third line is perpendicular to one of them. What is the angle between the third line and the other parallel line?",
+            "options": [
+              "0°",
+              "45°",
+              "90°",
+              "180°"
+            ]
+          },
+          {
+            "question": "A net of a cube shows 6 squares. Which arrangement is NOT possible?",
+            "options": [
+              "Cross shape",
+              "T shape",
+              "Straight line of 4 with 2 attached",
+              "All are possible"
+            ]
+          },
+          {
+            "question": "A triangle has angles 45°, 45°, and 90°. What type of triangle is it?",
+            "options": [
+              "Equilateral",
+              "Isosceles",
+              "Scalene",
+              "Acute"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "topic": "Statistics (bar charts, pictograms, tables)",
+      "examples": {
+        "Easy": [
+          {
+            "question": "In a bar chart, the bar for apples reaches 5. How many apples?",
+            "options": [
+              "4",
+              "5",
+              "6",
+              "7"
+            ]
+          },
+          {
+            "question": "A pictogram shows 3 full apples. Each apple represents 2 fruits. How many fruits?",
+            "options": [
+              "3",
+              "5",
+              "6",
+              "8"
+            ]
+          },
+          {
+            "question": "A table shows: Monday 4, Tuesday 7, Wednesday 5. Which day had the most?",
+            "options": [
+              "Monday",
+              "Tuesday",
+              "Wednesday",
+              "All same"
+            ]
+          },
+          {
+            "question": "How many children chose blue if the bar chart shows 8 for blue?",
+            "options": [
+              "6",
+              "7",
+              "8",
+              "9"
+            ]
+          },
+          {
+            "question": "A pictogram uses a circle for 10 people. How many circles for 30 people?",
+            "options": [
+              "2",
+              "3",
+              "4",
+              "5"
+            ]
+          }
+        ],
+        "Medium": [
+          {
+            "question": "The bar for cats is twice the height of the bar for dogs. Dogs = 5. How many cats?",
+            "options": [
+              "5",
+              "7",
+              "10",
+              "15"
+            ]
+          },
+          {
+            "question": "A table shows favourite colours: Red 12, Blue 15, Green 8, Yellow 5. How many more blue than green?",
+            "options": [
+              "3",
+              "5",
+              "7",
+              "9"
+            ]
+          },
+          {
+            "question": "In a pictogram, a key shows 1 symbol = 4 people. There are 6 symbols. How many people?",
+            "options": [
+              "20",
+              "22",
+              "24",
+              "26"
+            ]
+          },
+          {
+            "question": "A bar chart's vertical axis goes up to 20. The bar for maths is at 14. What is the difference between maths and the highest bar (20)?",
+            "options": [
+              "4",
+              "6",
+              "8",
+              "10"
+            ]
+          },
+          {
+            "question": "A survey: 8 like football, 12 like tennis, 5 like both. How many like only tennis?",
+            "options": [
+              "5",
+              "7",
+              "12",
+              "17"
+            ]
+          }
+        ],
+        "Hard": [
+          {
+            "question": "A bar chart shows sales: Week1 45, Week2 60, Week3 35, Week4 50. What is the average weekly sale?",
+            "options": [
+              "45",
+              "47.5",
+              "50",
+              "52.5"
+            ]
+          },
+          {
+            "question": "A pictogram: 1 symbol = 5 tickets. Monday 4 symbols, Tuesday 3.5 symbols, Wednesday 5 symbols. Total tickets?",
+            "options": [
+              "60",
+              "62.5",
+              "65",
+              "67.5"
+            ]
+          },
+          {
+            "question": "A table: Scores 0-9: 2 students, 10-19: 5, 20-29: 8, 30-39: 4, 40-49: 1. How many scored below 20?",
+            "options": [
+              "5",
+              "7",
+              "8",
+              "10"
+            ]
+          },
+          {
+            "question": "In a dual bar chart, boys and girls: Maths boys 12, girls 15; English boys 10, girls 18. What is the total number of students?",
+            "options": [
+              "45",
+              "50",
+              "55",
+              "60"
+            ]
+          },
+          {
+            "question": "The total frequency is 60. The mode is 8. How could this happen?",
+            "options": [
+              "8 appears most often",
+              "8 is the average",
+              "8 is the median",
+              "8 is the range"
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

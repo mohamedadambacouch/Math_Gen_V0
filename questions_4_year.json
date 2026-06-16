@@ -1,0 +1,1184 @@
+{
+  "year": "4",
+  "age": "8-9",
+  "topics": [
+    {
+      "topic": "Place value (numbers to 10,000, rounding)",
+      "examples": {
+        "Easy": [
+          {
+            "question": "What is the value of the digit 8 in the number 8,742?",
+            "options": [
+              "8 thousands (8000)",
+              "8 hundreds (800)",
+              "8 tens (80)",
+              "8 ones (8)"
+            ]
+          },
+          {
+            "question": "Write the number: 5 thousands, 3 hundreds, 0 tens, 7 ones.",
+            "options": [
+              "5,307",
+              "5,037",
+              "5,370",
+              "5,703"
+            ]
+          },
+          {
+            "question": "Which number is greater: 4,099 or 4,109?",
+            "options": [
+              "4,099",
+              "4,109",
+              "Equal",
+              "Can't tell"
+            ]
+          },
+          {
+            "question": "Round 3,476 to the nearest ten.",
+            "options": [
+              "3,470",
+              "3,480",
+              "3,500",
+              "3,400"
+            ]
+          },
+          {
+            "question": "What is 1,000 more than 6,543?",
+            "options": [
+              "6,553",
+              "7,543",
+              "6,643",
+              "7,543"
+            ]
+          }
+        ],
+        "Medium": [
+          {
+            "question": "Round 7,845 to the nearest hundred.",
+            "options": [
+              "7,800",
+              "7,850",
+              "7,900",
+              "8,000"
+            ]
+          },
+          {
+            "question": "Arrange in descending order: 5,678; 5,687; 5,768; 5,786",
+            "options": [
+              "5,786,5,768,5,687,5,678",
+              "5,678,5,687,5,768,5,786",
+              "5,768,5,786,5,678,5,687",
+              "5,687,5,678,5,786,5,768"
+            ]
+          },
+          {
+            "question": "What number is 250 less than 6,200?",
+            "options": [
+              "5,950",
+              "6,450",
+              "5,850",
+              "6,050"
+            ]
+          },
+          {
+            "question": "The temperature in London is 15°C. It drops by 22°C overnight. What is the new temperature?",
+            "options": [
+              "-7°C",
+              "7°C",
+              "-5°C",
+              "5°C"
+            ]
+          },
+          {
+            "question": "How many tens in 8,340?",
+            "options": [
+              "834",
+              "83",
+              "8,340",
+              "8340"
+            ]
+          }
+        ],
+        "Hard": [
+          {
+            "question": "I am a four-digit number. The thousands digit is double the hundreds digit. The hundreds digit is 3 more than the tens digit. The tens digit is 2 less than the ones digit. The sum of all digits is 19. What number am I?",
+            "options": [
+              "8,563",
+              "8,674",
+              "9,785",
+              "7,452"
+            ]
+          },
+          {
+            "question": "A number rounded to the nearest hundred is 5,400. What is the smallest possible original number?",
+            "options": [
+              "5,350",
+              "5,351",
+              "5,349",
+              "5,400"
+            ]
+          },
+          {
+            "question": "What is the difference between the largest and smallest numbers you can make using digits 4, 0, 7, 2?",
+            "options": [
+              "5,472",
+              "5,274",
+              "5,724",
+              "5,427"
+            ]
+          },
+          {
+            "question": "A bank account starts at -£350. You deposit £500, then withdraw £275. What is the final balance?",
+            "options": [
+              "-£125",
+              "£125",
+              "-£75",
+              "£75"
+            ]
+          },
+          {
+            "question": "Which number, when rounded to the nearest thousand, gives 8,000?",
+            "options": [
+              "7,499",
+              "8,499",
+              "8,501",
+              "7,501"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "topic": "Addition and subtraction (up to 4-digit numbers)",
+      "examples": {
+        "Easy": [
+          {
+            "question": "What is 3,456 + 2,123?",
+            "options": [
+              "5,579",
+              "5,579",
+              "5,569",
+              "5,589"
+            ]
+          },
+          {
+            "question": "What is 5,678 - 3,456?",
+            "options": [
+              "2,222",
+              "2,232",
+              "2,242",
+              "2,252"
+            ]
+          },
+          {
+            "question": "A school has 2,345 students. 1,278 are boys. How many girls?",
+            "options": [
+              "1,067",
+              "1,077",
+              "1,087",
+              "1,097"
+            ]
+          },
+          {
+            "question": "Add 4,567 and 3,289.",
+            "options": [
+              "7,856",
+              "7,866",
+              "7,876",
+              "7,886"
+            ]
+          },
+          {
+            "question": "What is 9,000 - 4,567?",
+            "options": [
+              "4,433",
+              "4,443",
+              "4,453",
+              "4,463"
+            ]
+          }
+        ],
+        "Medium": [
+          {
+            "question": "A farmer sold 3,467 kg of potatoes and 2,895 kg of carrots. How many kg in total?",
+            "options": [
+              "6,362",
+              "6,372",
+              "6,382",
+              "6,392"
+            ]
+          },
+          {
+            "question": "What is the missing number? 6,543 + ___ = 10,000",
+            "options": [
+              "3,457",
+              "3,467",
+              "3,557",
+              "3,567"
+            ]
+          },
+          {
+            "question": "A library had 8,500 books. After lending 3,275 and receiving 1,800 new ones, how many books?",
+            "options": [
+              "6,025",
+              "7,025",
+              "7,125",
+              "7,225"
+            ]
+          },
+          {
+            "question": "What is 10,000 - 6,789?",
+            "options": [
+              "3,211",
+              "3,221",
+              "3,311",
+              "3,321"
+            ]
+          },
+          {
+            "question": "During a sale, a shop sold £4,298 worth of items on Monday and £5,607 on Tuesday. What is the total?",
+            "options": [
+              "9,905",
+              "9,915",
+              "9,925",
+              "9,935"
+            ]
+          }
+        ],
+        "Hard": [
+          {
+            "question": "A company has a budget of £50,000. They spend £23,456 on salaries, £12,789 on rent, and £8,765 on supplies. How much is left?",
+            "options": [
+              "4,990",
+              "5,990",
+              "4,890",
+              "5,890"
+            ]
+          },
+          {
+            "question": "What is the sum of the largest 4-digit number and the smallest 4-digit number using digits 1,3,5,7 (each used once)?",
+            "options": [
+              "8,888",
+              "8,888",
+              "8,888",
+              "8,888"
+            ]
+          },
+          {
+            "question": "A car travels 1,234 km in week 1, 2,345 km in week 2, and 3,456 km in week 3. What is the total distance?",
+            "options": [
+              "7,035 km",
+              "7,045 km",
+              "7,135 km",
+              "7,145 km"
+            ]
+          },
+          {
+            "question": "Find the difference between 10,000 and the number that is 3,500 more than 4,200.",
+            "options": [
+              "2,300",
+              "2,400",
+              "2,500",
+              "2,600"
+            ]
+          },
+          {
+            "question": "I think of a number, add 2,500, then subtract 1,200 to get 5,000. What is my number?",
+            "options": [
+              "3,700",
+              "3,800",
+              "3,900",
+              "4,000"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "topic": "Multiplication and division (6, 7, 9, 11, 12 tables, two-digit by one-digit)",
+      "examples": {
+        "Easy": [
+          {
+            "question": "What is 7 × 6?",
+            "options": [
+              "42",
+              "41",
+              "43",
+              "44"
+            ]
+          },
+          {
+            "question": "What is 9 × 8?",
+            "options": [
+              "72",
+              "70",
+              "74",
+              "76"
+            ]
+          },
+          {
+            "question": "Calculate 12 × 7.",
+            "options": [
+              "84",
+              "86",
+              "88",
+              "90"
+            ]
+          },
+          {
+            "question": "There are 8 boxes, each with 11 pencils. How many pencils total?",
+            "options": [
+              "80",
+              "88",
+              "90",
+              "92"
+            ]
+          },
+          {
+            "question": "Divide 54 by 9.",
+            "options": [
+              "5",
+              "6",
+              "7",
+              "8"
+            ]
+          }
+        ],
+        "Medium": [
+          {
+            "question": "What is 34 × 6?",
+            "options": [
+              "194",
+              "204",
+              "214",
+              "224"
+            ]
+          },
+          {
+            "question": "A school has 9 classes, each with 28 students. How many students total?",
+            "options": [
+              "242",
+              "252",
+              "262",
+              "272"
+            ]
+          },
+          {
+            "question": "Calculate 96 ÷ 8.",
+            "options": [
+              "10",
+              "11",
+              "12",
+              "13"
+            ]
+          },
+          {
+            "question": "If 7 × ___ = 84, what is the missing number?",
+            "options": [
+              "10",
+              "11",
+              "12",
+              "13"
+            ]
+          },
+          {
+            "question": "A baker makes 48 muffins. He puts them into boxes of 6. How many boxes?",
+            "options": [
+              "6",
+              "7",
+              "8",
+              "9"
+            ]
+          }
+        ],
+        "Hard": [
+          {
+            "question": "What is 67 × 4?",
+            "options": [
+              "248",
+              "258",
+              "268",
+              "278"
+            ]
+          },
+          {
+            "question": "A cinema has 24 rows with 15 seats each. How many seats in total?",
+            "options": [
+              "340",
+              "350",
+              "360",
+              "370"
+            ]
+          },
+          {
+            "question": "Divide 125 by 7. Give the remainder.",
+            "options": [
+              "5",
+              "6",
+              "7",
+              "4"
+            ]
+          },
+          {
+            "question": "A factory produces 345 toys per day. How many in 6 days?",
+            "options": [
+              "2,070",
+              "2,080",
+              "2,090",
+              "2,100"
+            ]
+          },
+          {
+            "question": "If 12 × 15 = 180, then what is 12 × 16?",
+            "options": [
+              "192",
+              "200",
+              "208",
+              "216"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "topic": "Fractions (equivalent fractions, adding/subtracting same denominator)",
+      "examples": {
+        "Easy": [
+          {
+            "question": "Which fraction is equivalent to 1/2?",
+            "options": [
+              "2/4",
+              "1/3",
+              "2/3",
+              "3/4"
+            ]
+          },
+          {
+            "question": "What is 1/4 + 2/4?",
+            "options": [
+              "1/4",
+              "2/4",
+              "3/4",
+              "4/4"
+            ]
+          },
+          {
+            "question": "What is 5/8 - 2/8?",
+            "options": [
+              "2/8",
+              "3/8",
+              "4/8",
+              "5/8"
+            ]
+          },
+          {
+            "question": "Simplify 4/8 to its simplest form.",
+            "options": [
+              "1/4",
+              "1/2",
+              "2/4",
+              "3/4"
+            ]
+          },
+          {
+            "question": "What fraction of the shape is shaded? (Assume 3 out of 6 parts)",
+            "options": [
+              "1/3",
+              "1/2",
+              "2/3",
+              "3/4"
+            ]
+          }
+        ],
+        "Medium": [
+          {
+            "question": "Which fraction is larger: 3/5 or 2/3?",
+            "options": [
+              "3/5",
+              "2/3",
+              "Equal",
+              "Can't tell"
+            ]
+          },
+          {
+            "question": "Add 2/7 + 3/7 + 1/7. Give your answer as a mixed number.",
+            "options": [
+              "6/7",
+              "1 1/7",
+              "5/7",
+              "1 2/7"
+            ]
+          },
+          {
+            "question": "What is 3/4 of 60?",
+            "options": [
+              "45",
+              "50",
+              "55",
+              "60"
+            ]
+          },
+          {
+            "question": "A cake is cut into 10 equal slices. You eat 3 slices and your friend eats 4 slices. What fraction is left?",
+            "options": [
+              "3/10",
+              "4/10",
+              "7/10",
+              "10/10"
+            ]
+          },
+          {
+            "question": "Order from smallest to largest: 2/3, 5/6, 1/2",
+            "options": [
+              "1/2,2/3,5/6",
+              "2/3,1/2,5/6",
+              "5/6,2/3,1/2",
+              "1/2,5/6,2/3"
+            ]
+          }
+        ],
+        "Hard": [
+          {
+            "question": "What is 5/6 - 1/3?",
+            "options": [
+              "1/2",
+              "2/3",
+              "1/3",
+              "1/6"
+            ]
+          },
+          {
+            "question": "I have 3/4 of a pizza. I give 1/8 to my brother. How much do I have left?",
+            "options": [
+              "5/8",
+              "3/8",
+              "1/2",
+              "7/8"
+            ]
+          },
+          {
+            "question": "A ribbon is 72 cm long. You cut off 5/9 of it. How long is the remaining piece?",
+            "options": [
+              "32 cm",
+              "40 cm",
+              "28 cm",
+              "36 cm"
+            ]
+          },
+          {
+            "question": "Which fraction is equivalent to 0.75?",
+            "options": [
+              "3/4",
+              "2/3",
+              "5/8",
+              "7/10"
+            ]
+          },
+          {
+            "question": "John ate 2/5 of a chocolate bar. Mary ate 3/10. Who ate more, and by how much?",
+            "options": [
+              "John by 1/10",
+              "Mary by 1/10",
+              "Same",
+              "John by 1/5"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "topic": "Decimals (tenths and hundredths)",
+      "examples": {
+        "Easy": [
+          {
+            "question": "Write 0.7 as a fraction.",
+            "options": [
+              "7/10",
+              "7/100",
+              "1/7",
+              "70/100"
+            ]
+          },
+          {
+            "question": "Which decimal is larger: 0.45 or 0.5?",
+            "options": [
+              "0.45",
+              "0.5",
+              "Equal",
+              "Can't tell"
+            ]
+          },
+          {
+            "question": "What is 3/10 as a decimal?",
+            "options": [
+              "0.03",
+              "0.3",
+              "3.0",
+              "0.003"
+            ]
+          },
+          {
+            "question": "Convert 0.25 to a fraction in simplest form.",
+            "options": [
+              "1/4",
+              "2/5",
+              "1/2",
+              "25/100"
+            ]
+          },
+          {
+            "question": "What is 0.6 + 0.3?",
+            "options": [
+              "0.9",
+              "0.09",
+              "9.0",
+              "0.03"
+            ]
+          }
+        ],
+        "Medium": [
+          {
+            "question": "Order from smallest to largest: 0.32, 0.4, 0.28, 0.45",
+            "options": [
+              "0.28,0.32,0.4,0.45",
+              "0.32,0.28,0.4,0.45",
+              "0.45,0.4,0.32,0.28",
+              "0.28,0.4,0.32,0.45"
+            ]
+          },
+          {
+            "question": "What is 0.5 + 0.25?",
+            "options": [
+              "0.75",
+              "0.7",
+              "0.75",
+              "0.8"
+            ]
+          },
+          {
+            "question": "What is 0.8 - 0.35?",
+            "options": [
+              "0.45",
+              "0.55",
+              "0.35",
+              "0.65"
+            ]
+          },
+          {
+            "question": "A bottle holds 1.5 litres. You pour out 0.75 litres. How much remains?",
+            "options": [
+              "0.75 L",
+              "1.0 L",
+              "0.5 L",
+              "0.25 L"
+            ]
+          },
+          {
+            "question": "Write 0.9 as a percentage.",
+            "options": [
+              "9%",
+              "90%",
+              "0.9%",
+              "900%"
+            ]
+          }
+        ],
+        "Hard": [
+          {
+            "question": "What is 2.35 + 1.78?",
+            "options": [
+              "4.13",
+              "4.03",
+              "3.13",
+              "4.23"
+            ]
+          },
+          {
+            "question": "A packet of biscuits weighs 0.45 kg. What is the weight of 6 packets in grams?",
+            "options": [
+              "2,700 g",
+              "2,500 g",
+              "2,200 g",
+              "2,000 g"
+            ]
+          },
+          {
+            "question": "If 0.75 × 4 = 3, then what is 0.75 × 8?",
+            "options": [
+              "6",
+              "5",
+              "7",
+              "8"
+            ]
+          },
+          {
+            "question": "A runner completes a race in 12.45 seconds. Another finishes in 12.09 seconds. How much faster was the second?",
+            "options": [
+              "0.36 sec",
+              "0.46 sec",
+              "0.56 sec",
+              "0.66 sec"
+            ]
+          },
+          {
+            "question": "Which decimal is halfway between 0.2 and 0.3?",
+            "options": [
+              "0.25",
+              "0.22",
+              "0.28",
+              "0.5"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "topic": "Measurement (area, perimeter, time to the minute)",
+      "examples": {
+        "Easy": [
+          {
+            "question": "What is the area of a rectangle with length 5 cm and width 3 cm?",
+            "options": [
+              "15 cm²",
+              "16 cm²",
+              "14 cm²",
+              "13 cm²"
+            ]
+          },
+          {
+            "question": "What is the perimeter of a square with side 7 cm?",
+            "options": [
+              "28 cm",
+              "24 cm",
+              "32 cm",
+              "21 cm"
+            ]
+          },
+          {
+            "question": "The time is 2:15. What time will it be in 20 minutes?",
+            "options": [
+              "2:25",
+              "2:30",
+              "2:35",
+              "2:45"
+            ]
+          },
+          {
+            "question": "How many minutes between 3:40 and 4:15?",
+            "options": [
+              "30 min",
+              "35 min",
+              "40 min",
+              "45 min"
+            ]
+          },
+          {
+            "question": "A book starts at 8:50 am and ends at 9:30 am. How long is the lesson?",
+            "options": [
+              "30 min",
+              "35 min",
+              "40 min",
+              "45 min"
+            ]
+          }
+        ],
+        "Medium": [
+          {
+            "question": "A rectangular garden is 8 m long and 6 m wide. What is its area?",
+            "options": [
+              "48 m²",
+              "28 m²",
+              "14 m²",
+              "56 m²"
+            ]
+          },
+          {
+            "question": "The perimeter of a rectangle is 30 cm. The length is 10 cm. Find the width.",
+            "options": [
+              "5 cm",
+              "6 cm",
+              "7 cm",
+              "8 cm"
+            ]
+          },
+          {
+            "question": "A movie starts at 7:45 pm and lasts 2 hours 20 minutes. What time does it end?",
+            "options": [
+              "9:05 pm",
+              "10:05 pm",
+              "9:15 pm",
+              "10:15 pm"
+            ]
+          },
+          {
+            "question": "A room is 12 m by 9 m. Find the perimeter.",
+            "options": [
+              "42 m",
+              "38 m",
+              "44 m",
+              "48 m"
+            ]
+          },
+          {
+            "question": "A train leaves at 08:15 and arrives at 11:05. How long is the journey?",
+            "options": [
+              "2h 50m",
+              "2h 45m",
+              "3h 10m",
+              "2h 40m"
+            ]
+          }
+        ],
+        "Hard": [
+          {
+            "question": "A square has area 64 cm². What is its perimeter?",
+            "options": [
+              "32 cm",
+              "28 cm",
+              "36 cm",
+              "40 cm"
+            ]
+          },
+          {
+            "question": "A rectangle has length 12 cm and perimeter 40 cm. Find its width and area.",
+            "options": [
+              "8 cm, 96 cm²",
+              "6 cm, 72 cm²",
+              "10 cm, 120 cm²",
+              "7 cm, 84 cm²"
+            ]
+          },
+          {
+            "question": "Sam starts homework at 6:15 pm. He takes 45 minutes on maths, 30 minutes on English, and a 10-minute break. What time does he finish?",
+            "options": [
+              "7:40 pm",
+              "7:50 pm",
+              "8:00 pm",
+              "7:30 pm"
+            ]
+          },
+          {
+            "question": "A piece of land is 200 m by 150 m. How many metres of fencing needed to enclose it?",
+            "options": [
+              "700 m",
+              "600 m",
+              "500 m",
+              "800 m"
+            ]
+          },
+          {
+            "question": "A clock shows 8:45. What will be the time after 3 hours and 55 minutes?",
+            "options": [
+              "12:40",
+              "12:50",
+              "12:30",
+              "1:40"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "topic": "Geometry (coordinates, quadrilaterals, triangles, angles)",
+      "examples": {
+        "Easy": [
+          {
+            "question": "What are the coordinates of point (3,4) if you move 2 right?",
+            "options": [
+              "(5,4)",
+              "(3,6)",
+              "(1,4)",
+              "(3,2)"
+            ]
+          },
+          {
+            "question": "How many sides does a quadrilateral have?",
+            "options": [
+              "3",
+              "4",
+              "5",
+              "6"
+            ]
+          },
+          {
+            "question": "What angle is greater than 90° but less than 180°?",
+            "options": [
+              "Acute",
+              "Right",
+              "Obtuse",
+              "Reflex"
+            ]
+          },
+          {
+            "question": "Which shape has 4 equal sides but may not have right angles?",
+            "options": [
+              "Square",
+              "Rectangle",
+              "Rhombus",
+              "Parallelogram"
+            ]
+          },
+          {
+            "question": "What is the name of a triangle with all sides equal?",
+            "options": [
+              "Equilateral",
+              "Isosceles",
+              "Scalene",
+              "Right-angled"
+            ]
+          }
+        ],
+        "Medium": [
+          {
+            "question": "Point A is at (2,3). Point B is at (5,7). What is the horizontal distance between them?",
+            "options": [
+              "2",
+              "3",
+              "4",
+              "5"
+            ]
+          },
+          {
+            "question": "How many degrees in a right angle?",
+            "options": [
+              "45°",
+              "90°",
+              "180°",
+              "360°"
+            ]
+          },
+          {
+            "question": "A shape has 4 sides: two are parallel and two are not. What is it?",
+            "options": [
+              "Trapezium",
+              "Square",
+              "Rectangle",
+              "Rhombus"
+            ]
+          },
+          {
+            "question": "What is the sum of the interior angles of a triangle?",
+            "options": [
+              "90°",
+              "180°",
+              "270°",
+              "360°"
+            ]
+          },
+          {
+            "question": "If one angle of a triangle is 60° and another is 70°, what is the third?",
+            "options": [
+              "40°",
+              "50°",
+              "60°",
+              "70°"
+            ]
+          }
+        ],
+        "Hard": [
+          {
+            "question": "Plot points (1,1), (1,4), (4,4). What shape do they form?",
+            "options": [
+              "Right-angled triangle",
+              "Square",
+              "Rectangle",
+              "Isosceles triangle"
+            ]
+          },
+          {
+            "question": "A rectangle has vertices at (2,3), (2,8), (7,3). What is the fourth vertex?",
+            "options": [
+              "(7,8)",
+              "(8,7)",
+              "(5,8)",
+              "(7,5)"
+            ]
+          },
+          {
+            "question": "In an isosceles triangle, the base angles are 35° each. What is the apex angle?",
+            "options": [
+              "110°",
+              "70°",
+              "90°",
+              "145°"
+            ]
+          },
+          {
+            "question": "A parallelogram has angles of 110° and 70°. Which angle is opposite the 110°?",
+            "options": [
+              "110°",
+              "70°",
+              "180°",
+              "90°"
+            ]
+          },
+          {
+            "question": "A triangle has angles in the ratio 2:3:5. What is the largest angle?",
+            "options": [
+              "90°",
+              "100°",
+              "80°",
+              "70°"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "topic": "Statistics (line graphs, time graphs)",
+      "examples": {
+        "Easy": [
+          {
+            "question": "A line graph shows temperature at 8am: 12°, 10am: 15°, 12pm: 18°. What was the temperature at 10am?",
+            "options": [
+              "12°",
+              "15°",
+              "18°",
+              "20°"
+            ]
+          },
+          {
+            "question": "On a time graph, the line goes up steeply. What does that mean?",
+            "options": [
+              "Rapid increase",
+              "Slow increase",
+              "Decrease",
+              "Constant"
+            ]
+          },
+          {
+            "question": "A graph shows distance over time: 0s:0m, 1s:5m, 2s:10m. What is the speed?",
+            "options": [
+              "5 m/s",
+              "10 m/s",
+              "2 m/s",
+              "1 m/s"
+            ]
+          },
+          {
+            "question": "If the line on a graph is flat, what is happening?",
+            "options": [
+              "No change",
+              "Increase",
+              "Decrease",
+              "Fluctuating"
+            ]
+          },
+          {
+            "question": "A line graph shows rainfall: Jan 50mm, Feb 60mm, Mar 45mm. Which month had most rain?",
+            "options": [
+              "Jan",
+              "Feb",
+              "Mar",
+              "All same"
+            ]
+          }
+        ],
+        "Medium": [
+          {
+            "question": "A graph shows the height of a plant over 4 weeks: Week1 2cm, Week2 5cm, Week3 9cm, Week4 14cm. How much did it grow between week2 and week4?",
+            "options": [
+              "5cm",
+              "9cm",
+              "7cm",
+              "10cm"
+            ]
+          },
+          {
+            "question": "On a distance-time graph, a steep slope means:",
+            "options": [
+              "High speed",
+              "Low speed",
+              "Stationary",
+              "Going backwards"
+            ]
+          },
+          {
+            "question": "A line graph shows sales: Mon 100, Tue 150, Wed 120, Thu 180, Fri 200. What is the average daily sale?",
+            "options": [
+              "150",
+              "160",
+              "170",
+              "180"
+            ]
+          },
+          {
+            "question": "A graph of temperature over 12 hours shows a peak at 2pm. What likely happened after 2pm?",
+            "options": [
+              "Temperature dropped",
+              "Temperature rose",
+              "Stayed same",
+              "Fluctuated"
+            ]
+          },
+          {
+            "question": "If a line graph shows a straight line from (0,0) to (10,100), what is the gradient?",
+            "options": [
+              "10",
+              "5",
+              "100",
+              "0"
+            ]
+          },
+          {
+            "question": "Gaia is a football coach and is trying to measure attendance over the course of the summer holidays, broken down into six weeks. The graph below shows how many players attended each week. How many more players attended in Week 2 than in Week 4?",
+            "options": [
+              "12",
+              "11",
+              "15",
+              "14",
+              "16"
+            ]
+          }
+        ],
+        "Hard": [
+          {
+            "question": "A line graph shows the number of visitors to a museum: 9am:20, 10am:45, 11am:80, 12pm:95, 1pm:85. What was the total visitors between 10am and 1pm?",
+            "options": [
+              "305",
+              "300",
+              "310",
+              "295"
+            ]
+          },
+          {
+            "question": "On a speed-time graph, a horizontal line at 20 m/s means:",
+            "options": [
+              "Constant speed",
+              "Accelerating",
+              "Decelerating",
+              "Stationary"
+            ]
+          },
+          {
+            "question": "A graph shows profit over years: 2019: £5000, 2020: £6000, 2021: £9000, 2022: £12000. What is the percentage increase from 2019 to 2022?",
+            "options": [
+              "140%",
+              "120%",
+              "100%",
+              "80%"
+            ]
+          },
+          {
+            "question": "A line graph has two lines: one for sales, one for costs. At which point are they equal?",
+            "options": [
+              "Break-even point",
+              "Maximum profit",
+              "Loss",
+              "Peak sales"
+            ]
+          },
+          {
+            "question": "A graph shows the water level in a tank over 6 hours. The line goes up for 2 hours, flat for 1 hour, then down for 3 hours. When was the tank being emptied?",
+            "options": [
+              "Last 3 hours",
+              "First 2 hours",
+              "Middle hour",
+              "All the time"
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

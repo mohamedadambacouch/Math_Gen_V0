@@ -1,0 +1,42 @@
+{
+  "year_groups": {
+    "3": {
+      "age": "7-8",
+      "topics": [
+        "Place value (numbers to 1000, negative numbers in context)",
+        "Addition and subtraction (column method, mental calculations)",
+        "Multiplication and division (3, 4, 8 times tables, remainders)",
+        "Fractions (tenths, unit fractions, comparing fractions)",
+        "Measurement (perimeter, length, mass, capacity, time intervals)",
+        "Geometry (angles, perpendicular/parallel lines, 2D/3D shapes)",
+        "Statistics (bar charts, pictograms, tables)"
+      ]
+    },
+    "4": {
+      "age": "8-9",
+      "topics": [ 
+        "Place value (numbers to 10,000, rounding)",
+        "Addition and subtraction (up to 4-digit numbers)",
+        "Multiplication and division (6, 7, 9, 11, 12 tables, two-digit by one-digit)",
+        "Fractions (equivalent fractions, adding/subtracting same denominator)",
+        "Decimals (tenths and hundredths)",
+        "Measurement (area, perimeter, time to the minute)",
+        "Geometry (coordinates, quadrilaterals, triangles, angles)",
+        "Statistics (line graphs, time graphs)"
+      ]
+    },
+    "5": {
+      "age": "9-10",
+      "topics": [
+        "Place value (up to 1,000,000, negative numbers)",
+        "Four operations (multi-digit multiplication, division with remainders)",
+        "Fractions (comparing, adding/subtracting, multiplying fractions)",
+        "Decimals and percentages (equivalence, rounding, problems)",
+        "Measurement (converting units, volume, area of rectangles)",
+        "Geometry (angles, regular polygons, reflection, translation)",
+        "Statistics (tables, line graphs, timetables)",
+        "Ratio and proportion (simple scaling)"
+      ]
+    }
+  }
+}
